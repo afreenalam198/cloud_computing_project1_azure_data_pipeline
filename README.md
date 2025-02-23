@@ -39,9 +39,9 @@ The data pipeline follows a simple yet effective architecture:
     *   Published the pipeline to deploy it to Azure.
     *   Verified the data transfer by querying the `Students` table in Azure Data Studio (e.g., counting students by country).
 
-4.  **Extra Credit Implementation (Optional):**
+4.  **Static Web App Deployment:**
     *   Developed an Azure Static Web App to provide a user interface for interacting with the data.
-    *   Created Azure Function Apps for any custom data processing or API endpoints.
+    *   Created Azure Function Apps to fetch data.
 
 ## Technologies Used
 
@@ -52,4 +52,4 @@ The data pipeline follows a simple yet effective architecture:
     *   Azure Data Factory
     *   Azure Data Studio (for database interaction and querying)  
     *   Azure Static Web App (for data visualization)
-    *   Azure Function App (for custom data processing or API integration)
+    *   Azure Function App (for API integration)
