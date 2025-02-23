@@ -41,7 +41,8 @@ The data pipeline follows a simple yet effective architecture:
 
 4.  **Static Web App Deployment:**
     *   Developed an Azure Static Web App to provide a user interface for interacting with the data.
-    *   Created Azure Function Apps to fetch data.
+    *   Created Azure Function Apps to fetch student count data from Azure SQL Database.
+
 
 ## Technologies Used
 
